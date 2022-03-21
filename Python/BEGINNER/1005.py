@@ -1,0 +1,6 @@
+A = float(input())
+A = round(A,1)
+B = float(input())
+B = round(B,1)
+MEDIA = ((A * 3.5)+(B * 7.5))/(3.5+7.5)
+print(MEDIA)
